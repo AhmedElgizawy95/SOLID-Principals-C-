@@ -1,1 +1,1 @@
-# SOLID-Principals-C-
+# SOLID-Principals-C++
